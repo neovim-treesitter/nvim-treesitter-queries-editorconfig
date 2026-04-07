@@ -1,7 +1,7 @@
 {
+  "lang": "editorconfig",
   "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig",
   "semver": true,
   "parser_version": "v2.0.0",
-  "location": null,
-  "lang": "editorconfig"
+  "location": null
 }
